@@ -1,28 +1,28 @@
-### Hi there 👋
-<!--
-1. Fork the repository to your account
-2. Clone the project on your machine
-3. Create a breanch before making changes
-4. Make your changes
-5. Commit and push your changes
-6. Open a pull request
--->
+# ch4os-labs
 
-<!--
-**chaosfixx/chaosfixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Engineering clarity from complexity.  
+> Building resilient systems, ethical AI, and high-velocity teams.
 
-Here are some ideas to get you started:
+![banner](assets/banner.png)
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning Site Reliability Engineering and how to implement into the show. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
 
-- 🌱 I’m constantly learning about digital disruption and thriving in the age of data. 
-- 👯 I’m looking to collaborate on those complex technical environment and how to find patterns and mature observability.
-- 💬 Ask me about SRE, Agile and AI.
+I'm **Tab Ours**, I am an expierenced Engineer focused on:
+- Responsible AI & agentic systems
+- Secure software architecture & operational resilience
+- High-velocity engineering cultures
+- Creative storytelling through code, systems, and design
+
+## Featured Projects
+
+- [`ch4os-agents`](https://github.com/ch4os-labs/ch4os-agents) — Agentic AI orchestration
+- [`ch4os-hielo`](https://github.com/ch4os-labs/ch4os-hielo) — Minimalist CSS framework
+- [`labs`](https://github.com/ch4os-labs?tab=repositories) — Prototypes and chaos-taming tools
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/tabours) • [Medium](https://medium.com/@tabours) • [GitHub Pages](https://ch4os-labs.github.io)
+
+---
+
+© Tab Ours · MIT License
